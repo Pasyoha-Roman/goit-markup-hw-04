@@ -502,7 +502,7 @@ align-items: center;
 }
 
 .footer-link:hover,
-.lfooter-link:focus {
+.footer-link:focus {
     background-color: #31d0aa;;
     cursor: pointer;
 }
